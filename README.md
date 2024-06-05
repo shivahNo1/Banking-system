@@ -41,8 +41,8 @@ Before you begin, ensure you have the following installed on your local machine:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/shivahNo1/guvi-bank.git
-   cd guvi-bank
+   git clone https://github.com/shivahNo1/Banking-system.git
+   
 
 2. **Install Required Python Libraries**
 
