@@ -46,5 +46,6 @@ Before you begin, ensure you have the following installed on your local machine:
 
 2. **Install Required Python Libraries**
 
+   ```shh
    pip install streamlit pymongo
 
