@@ -11,7 +11,6 @@ Banking system is a simple banking application built using Streamlit and MongoDB
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -44,3 +43,8 @@ Before you begin, ensure you have the following installed on your local machine:
    ```sh
    git clone https://github.com/your-username/guvi-bank.git
    cd guvi-bank
+
+2. **Install Required Python Libraries**
+
+   pip install streamlit pymongo
+
