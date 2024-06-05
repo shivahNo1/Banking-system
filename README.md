@@ -85,7 +85,7 @@ Go to the balance section to view your current account balance.
 
 ## Project Structure
 
-- **app.py**: Main application file containing the Streamlit code.
+- **banking_code.py**: Main application file containing the Streamlit code.
 - **requirements.txt**: List of Python libraries required for the project.
 
 
