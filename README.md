@@ -1,6 +1,6 @@
 # Banking system
 
-Banking system is a simple banking application built using Streamlit and MongoDB. It allows users to register, login, deposit money, withdraw money, and view their balance. 
+This Project is a simple banking application built using Streamlit and MongoDB. It allows users to register, login, deposit money, withdraw money, and view their balance. 
 
 ## Table of Contents
 
